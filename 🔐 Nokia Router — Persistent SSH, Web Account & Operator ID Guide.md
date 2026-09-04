@@ -103,6 +103,13 @@ ritool dump
 ```
 
 ---
+## Step 0.7 — factory reset
+
+```sh
+fw_setenv factory_reset_flag 2
+```
+
+---
 
 ## Step 0.8 — Save and Reboot
 

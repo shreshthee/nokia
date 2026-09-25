@@ -379,7 +379,20 @@ reboot
 ```
 
 ---
+# 🔄 POE Control(via ssh) (*Optional*)
 
+Set the POE (ON).
+
+```bash
+fw_setenv poe_enable 1
+```
+
+Set the POE (OFF).
+
+```bash
+fw_setenv poe_enable 1
+```
+---
 # 💻 Chapter 8 — SSH Login from Windows
 
 After the router has rebooted, open PowerShell.

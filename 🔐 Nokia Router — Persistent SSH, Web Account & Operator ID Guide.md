@@ -341,13 +341,13 @@ cfgcli set InternetGatewayDevice.X_Authentication.WebAccount.Enable v true
 ## Step 5.2 — Set Username
 
 ```sh
-cfgcli set InternetGatewayDevice.X_Authentication.WebAccount.UserName v SatarkUser
+cfgcli set InternetGatewayDevice.X_Authentication.WebAccount.UserName v tuktuk
 ```
 
 ## Step 5.3 — Set Password
 
 ```sh
-cfgcli set InternetGatewayDevice.X_Authentication.WebAccount.Password v 'Lokia @123'
+cfgcli set InternetGatewayDevice.X_Authentication.WebAccount.Password v tuktuk
 ```
 
 > The password contains a space, so keep the single quotes.
